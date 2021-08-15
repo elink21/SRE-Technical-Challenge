@@ -1,10 +1,10 @@
 # Implementation Checklist
-- [ ] API Code
-- [ ] Services Code
-- [ ] Unit-tests
-- [ ] Dockerfile
-- [ ] It Compiles
-- [ ] It runs
+- ✅ API Code
+- ✅ Services Code
+- ✅ Unit-tests
+- ✅ Dockerfile
+- ✅ It Compiles
+- ✅ It runs
 
 # Api Services
 - Receives a valid username and password and returns a JWT.
